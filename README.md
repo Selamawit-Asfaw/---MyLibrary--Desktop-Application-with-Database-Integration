@@ -3,3 +3,4 @@ Featuring a secure login form for authorized access, the application provides an
 It also simplifies borrower record management with similar easy-to-use CRUD operations. Furthermore, the application robustly supports the issuing and returning of books, ensuring accurate tracking of available copies and borrowing history. 
 Built with Microsoft Visual Studio and the .NET Framework, this application offers a solid foundation for library management, seamlessly integrating with a configured database (likely SQL Server Express LocalDB) containing well-structured tables for Books, Borrowers, and IssuedBooks.
 With its clear and functional design, the Library Project offers a positive and effective solution for managing library resources.
+I used gemini ai and deepseek as a reference.
