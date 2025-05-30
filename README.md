@@ -1,3 +1,4 @@
+The correct username is admin and the correct password is password123.
 I used Gemini ai and Deepseek as a reference.
 The "new" file is the file that contains the screenshots.
 All the .cs and .designer codes are also attached on the repository.
